@@ -2,6 +2,11 @@
 
 All notable changes to the "salesforce-multitools-3" extension will be documented in this file.
 
+## [0.6.0]
+
+### Updated
+- Added feature to start or stop logging on the user
+
 ## [0.4.1]
 
 ### Fixes
